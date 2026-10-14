@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">我是歪果仁</string>
+    <string-array name="xposedscope">
+        <item>com.ss.android.ugc.aweme</item>
+    </string-array>
+</resources>
